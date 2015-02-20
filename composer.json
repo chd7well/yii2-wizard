@@ -1,0 +1,24 @@
+{
+"name": "chd7well/yii2-wizard",
+"description": "A Yii2 extension for a bootstrap wizard",
+"keywords": ["bootstrap", "wizard", "yii2", "yii2-extension", "modal", "jquery"],
+"homepage": "https://github.com/chd7well/yii2-wizard",
+"type": "yii2-extension",
+"license": "MIT",
+"authors": [
+{
+"name": "Christian Dumhart",
+"email": "christian.dumhart@chd.at",
+"homepage": "http://www.chd.at/"
+}
+],
+"minimum-stability": "dev",
+"require": {
+"chd7well/bootstrap-wizard": "*"
+},
+"autoload": {
+"psr-4": {
+"chd7well\\wizard\\": ""
+}
+}
+}
