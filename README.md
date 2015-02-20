@@ -5,7 +5,6 @@ A wizard for multi form input!
 
 > **NOTE:** Module is in initial development. Anything may change at any time.
 
-If you want to use more menues as the mainmenu (sys_menu_type.ID=1) then you must define a module parameter '7well/smartmenu/onlymainmenu' = 0 at bootstrap!
 
 ##Quick Start
 ```
