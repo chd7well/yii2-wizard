@@ -15,7 +15,7 @@
 "minimum-stability": "dev",
 "require": {
 "chd7well/bootstrap-wizard": "*",
-"kartik-v/yii2-krajee-base": "*",
+"kartik-v/yii2-krajee-base": "*"
 }, 
 "autoload": {
 "psr-4": {
